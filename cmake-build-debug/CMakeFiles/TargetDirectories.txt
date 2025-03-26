@@ -1,0 +1,3 @@
+D:/AGH/SEM4/KOMPILATORY/lab/Kolorowanie/cmake-build-debug/CMakeFiles/Kolorowanie.dir
+D:/AGH/SEM4/KOMPILATORY/lab/Kolorowanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AGH/SEM4/KOMPILATORY/lab/Kolorowanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+_a := 15
+_b := 'abc'
+if(_b = 'abcde'){
+    _a := _a*2
+}
+else{
+    _a := _a*3
+}
+while(_a = 45)
+    _a:= 11
+return 0
